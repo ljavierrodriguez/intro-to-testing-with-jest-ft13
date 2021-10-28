@@ -1,0 +1,23 @@
+{
+  "name": "intro-to-testing-with-jest-ft13",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ljavierrodriguez/intro-to-testing-with-jest-ft13.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ljavierrodriguez/intro-to-testing-with-jest-ft13/issues"
+  },
+  "homepage": "https://github.com/ljavierrodriguez/intro-to-testing-with-jest-ft13#readme",
+  "dependencies": {
+    "jest": "^27.3.1"
+  }
+}
